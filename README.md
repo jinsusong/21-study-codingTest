@@ -29,7 +29,7 @@ N이 1,000일 때의 연산 횟수
 
 모두 시간 제한이 1초인 문제에 대한 예시  , P50 
 
-# 구현
+# [구현](https://github.com/jinsusong/study-Baekjoon/blob/master/%EA%B5%AC%ED%98%84.ipynb)
 
 프로그래밍 언어의 문법에 능숙하고 코드 작성 속도가 빠른 역량을 요구하는 문제 
 
