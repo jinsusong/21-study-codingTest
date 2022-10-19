@@ -1,6 +1,6 @@
 # 코딩테스트
 
-# 복잡도
+# [복잡도](https://github.com/jinsusong/study-Baekjoon/blob/master/%EB%B3%B5%EC%9E%A1%EB%8F%84.ipynb)
 
 
 시간 복잡도 : 특정한 크기의 입력에 대하여 알고리즘이 얼마나 오래 걸리는지 의미
