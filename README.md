@@ -60,4 +60,4 @@ N = 1,000,000일 때 NlogN은 약 20,000,000이기 때문이다.
 
 
 
-# [라이브러리](https://www.notion.so/4b5848964a7e40c6a83c7421a21e2c87)
+# [라이브러리](https://www.notion.so/4b5848964a7e40c6a83c7421a21e2c87).
