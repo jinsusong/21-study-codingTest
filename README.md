@@ -6,4 +6,5 @@
 - [2048 (Easy)](https://songjinsu.tistory.com/entry/2048-Easy)
 - [뱀](https://songjinsu.tistory.com/entry/%EB%B1%80)
 - [시험 감독](https://songjinsu.tistory.com/entry/%EC%8B%9C%ED%97%98-%EA%B0%90%EB%8F%85)
+- [주사위]()
 
