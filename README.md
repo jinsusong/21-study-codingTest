@@ -10,3 +10,7 @@
 - [테트로미노](https://songjinsu.tistory.com/entry/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
 - [연구소](https://songjinsu.tistory.com/entry/%EC%97%B0%EA%B5%AC%EC%86%8C)
 - [로봇 청소기](https://songjinsu.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts)
+
+
+# 구현 
+- [셀프 넘버](https://songjinsu.tistory.com/entry/%EC%85%80%ED%94%84-%EB%84%98%EB%B2%84)
