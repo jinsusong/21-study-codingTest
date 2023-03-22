@@ -14,3 +14,4 @@
 
 # 구현 
 - [셀프 넘버](https://songjinsu.tistory.com/entry/%EC%85%80%ED%94%84-%EB%84%98%EB%B2%84)
+- [2차원 배열의 합](https://songjinsu.tistory.com/entry/2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9)
