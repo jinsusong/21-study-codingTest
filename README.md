@@ -16,3 +16,12 @@
 - [셀프 넘버](https://songjinsu.tistory.com/entry/%EC%85%80%ED%94%84-%EB%84%98%EB%B2%84)
 - [2차원 배열의 합](https://songjinsu.tistory.com/entry/2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9)
 - [이전 순열](https://songjinsu.tistory.com/entry/%EC%9D%B4%EC%A0%84-%EC%88%9C%EC%97%B4)
+- [숫자 야구](https://songjinsu.tistory.com/entry/%EC%88%AB%EC%9E%90-%EC%95%BC%EA%B5%AC)
+- [올림픽](https://songjinsu.tistory.com/entry/%EC%98%AC%EB%A6%BC%ED%94%BD)
+- [팰린드롬](https://songjinsu.tistory.com/entry/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
+- [숫자 정사각형](https://songjinsu.tistory.com/entry/%EC%88%AB%EC%9E%90-%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95)
+- [카드](https://songjinsu.tistory.com/entry/%EC%B9%B4%EB%93%9C1)
+- [스위치 켜고 끄기](https://songjinsu.tistory.com/entry/%EC%8A%A4%EC%9C%84%EC%B9%98-%EC%BC%9C%EA%B3%A0-%EB%81%84%EA%B8%B0)
+- [참외밭](https://songjinsu.tistory.com/entry/%EC%B0%B8%EC%99%B8%EB%B0%AD)
+
+
