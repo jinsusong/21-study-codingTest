@@ -26,3 +26,4 @@
 - [마인크래프트](https://songjinsu.tistory.com/entry/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
 - [행렬 곱셈](https://songjinsu.tistory.com/entry/%ED%96%89%EB%A0%AC-%EA%B3%B1%EC%85%88)
 - [수 이어 쓰기1](https://songjinsu.tistory.com/entry/%EC%88%98-%EC%9D%B4%EC%96%B4-%EC%93%B0%EA%B8%B0-1)
+- [빙고](https://songjinsu.tistory.com/entry/%EB%B9%99%EA%B3%A0)
