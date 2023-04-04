@@ -29,3 +29,4 @@
 - [빙고](https://songjinsu.tistory.com/entry/%EB%B9%99%EA%B3%A0)
 - [누울 자리를 찾아라](https://songjinsu.tistory.com/entry/%EB%AC%B8%EC%A0%9C)
 - [생일](https://songjinsu.tistory.com/entry/%EC%83%9D%EC%9D%BC)
+- [병든 ](https://songjinsu.tistory.com/entry/%EB%B3%91%EB%93%A0-%EB%82%98%EC%9D%B4%ED%8A%B8)
