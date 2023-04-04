@@ -28,3 +28,4 @@
 - [수 이어 쓰기1](https://songjinsu.tistory.com/entry/%EC%88%98-%EC%9D%B4%EC%96%B4-%EC%93%B0%EA%B8%B0-1)
 - [빙고](https://songjinsu.tistory.com/entry/%EB%B9%99%EA%B3%A0)
 - [누울 자리를 찾아라](https://songjinsu.tistory.com/entry/%EB%AC%B8%EC%A0%9C)
+- [생일](https://songjinsu.tistory.com/entry/%EC%83%9D%EC%9D%BC)
