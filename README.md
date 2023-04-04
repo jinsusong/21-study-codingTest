@@ -27,3 +27,4 @@
 - [행렬 곱셈](https://songjinsu.tistory.com/entry/%ED%96%89%EB%A0%AC-%EA%B3%B1%EC%85%88)
 - [수 이어 쓰기1](https://songjinsu.tistory.com/entry/%EC%88%98-%EC%9D%B4%EC%96%B4-%EC%93%B0%EA%B8%B0-1)
 - [빙고](https://songjinsu.tistory.com/entry/%EB%B9%99%EA%B3%A0)
+- [누울 자리를 찾아라](https://songjinsu.tistory.com/entry/%EB%AC%B8%EC%A0%9C)
