@@ -32,3 +32,4 @@
 - [병든나이트 ](https://songjinsu.tistory.com/entry/%EB%B3%91%EB%93%A0-%EB%82%98%EC%9D%B4%ED%8A%B8)
 - [수열](https://songjinsu.tistory.com/manage/posts/)
 - [Base Conversion](https://songjinsu.tistory.com/entry/Base-Conversion)
+- [배열 돌리기 1](https://songjinsu.tistory.com/entry/%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-1)
