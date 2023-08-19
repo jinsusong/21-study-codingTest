@@ -1,3 +1,9 @@
+# Java 기초 
+- [Arrays.fill](https://songjinsu.tistory.com/entry/Java-%EA%B8%B0%EC%B4%88)
+- [Integer.toString()](https://songjinsu.tistory.com/entry/Java-%EA%B8%B0%EC%B4%88)
+- [BufferedWriter](https://songjinsu.tistory.com/entry/Java-%EA%B8%B0%EC%B4%88)
+
+
 # 삼성 SW 역량 테스트 기출 문제
 
 ![image](https://user-images.githubusercontent.com/41534462/218253805-b29ff1a1-b639-46c4-b2b0-937e981ecfaf.png)
